@@ -64,4 +64,4 @@ Recognised by faculty and shared with the college cohort as an example of applie
 
 ---
 
-*Rushi Prasad Kanade — BTech AI, First Year*
+*Rushiprasad Kanade — BTech AI, First Year*
