@@ -1,47 +1,67 @@
 # Patient Registration System
 ### SRT Medical College & Hospital, Ambajogai
 
-A desktop-based patient registration application built with 
-Python and Tkinter — designed to replace manual paper-based 
-intake with a structured digital workflow.
+A desktop-based patient registration application built with Python and Tkinter.  
+Developed as a practical Python GUI project during BTech (AI) — First Year.
 
 ---
 
 ## Features
 
-- 12 hospital departments with real-time dynamic theming
-  (banner color and icon change on department selection)
-- Auto-generated patient ID
-- Live BMI calculator (updates on typing)
-- Form validation with mobile number checks
-- Full patient data capture — personal, physical, contact,
-  and department sections
+- 12 hospital departments with dynamic color theming (Dentistry, Cardiology, Neurology, etc.)
+- Auto-generated Patient ID based on timestamp
+- BMI calculator that updates in real time as height and weight are typed
+- 6 detailed sections: Personal Info, Medical Info, Contact Details, Emergency Contact, Vitals, and Insurance
+- Form validation with Indian mobile number check
+- Consent checkboxes for treatment, data use, and photography
+- Clear form and Print buttons
 
----
+## Sections Covered
 
-## Tech Stack
-
-- Python 3.x
-- Tkinter (GUI)
-- OOP architecture
-
----
+| Section | Fields |
+|---|---|
+| Personal Info | Name, DOB, Age, Gender, Blood Group, Height, Weight, BMI, Aadhaar, PAN |
+| Medical Info | Department, Doctor, Complaint, Allergies, Medications, Surgeries, Lifestyle |
+| Contact Details | Mobile, Email, Full Address with Taluka/District/Pincode/State |
+| Emergency Contact | Name, Relationship, Mobile, Address |
+| Visit and Vitals | Temperature, BP, Pulse, SpO2, Referral, Ward |
+| Insurance | Provider, ABHA Number, Scheme, Payment Mode, Consent |
 
 ## Screenshots
 
-[Add screenshot here after uploading to repo]
+> Running application with VS Code
+
+![App Screenshot](screenshots/app_with_code.png)
+
+> Clean application window
+
+![App Window](screenshots/app_clean.png)
+
+## Requirements
+
+- Python 3.x
+- Tkinter (built-in with Python, no separate install needed)
+
+## How to Run
+
+```bash
+git clone https://github.com/YOUR_USERNAME/srt-patient-registration.git
+cd srt-patient-registration
+python patient_registration.py
+```
+
+## Tech Stack
+
+- Python 3
+- Tkinter (GUI)
+- ttk (themed widgets)
+- datetime, re (standard library)
+
+## About
+
+Built for SRT Medical College and Hospital, Ambajogai, Beed District, Maharashtra.  
+Recognised by faculty and shared with the college cohort as an example of applied Python development.
 
 ---
 
-## Recognition
-
-Recognised by course faculty and shared with the college 
-cohort as an example of applied Python development.
-
----
-
-## Author
-
-**Rushiprasad Kanade**
-B.Tech Artificial Intelligence — DBATU
-[LinkedIn](https://www.linkedin.com/in/rushiprasad-kanade-6a986338b)
+*Rushi Prasad Kanade — BTech AI, First Year*

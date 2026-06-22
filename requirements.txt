@@ -1,0 +1,7 @@
+# No external packages needed.
+# All libraries used are part of Python's standard library.
+# Python 3.x is required.
+
+# tkinter  -> built-in (comes with Python)
+# datetime -> built-in
+# re       -> built-in
