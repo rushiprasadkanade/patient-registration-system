@@ -31,7 +31,7 @@ Developed as a practical Python GUI project during BTech (AI) — First Year.
 
 > Running application with VS Code
 
-![App Screenshot](screenshots/app_with_code.png)
+![Patient Registration System](app_with_code.png)
 
 > Clean application window
 
