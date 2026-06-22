@@ -35,7 +35,7 @@ Developed as a practical Python GUI project during BTech (AI) — First Year.
 
 > Clean application window
 
-![App Window](screenshots/app_clean.png)
+![Patient Registration System](screenshot.png)
 
 ## Requirements
 
