@@ -2,7 +2,7 @@
 ### SRT Medical College & Hospital, Ambajogai
 
 A desktop-based patient registration application built with Python and Tkinter.  
-Developed as a practical Python GUI project during BTech (AI) — First Year.
+Developed as a practical Python GUI project during BTech (AI) - First Year.
 
 ---
 
