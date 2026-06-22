@@ -45,8 +45,8 @@ Developed as a practical Python GUI project during BTech (AI) — First Year.
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/srt-patient-registration.git
-cd srt-patient-registration
+git clone https://github.com/rushiprasadkanade/patient-registration-system
+cd patient-registration-system
 python patient_registration.py
 ```
 
