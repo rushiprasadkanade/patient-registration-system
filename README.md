@@ -1,4 +1,5 @@
-# Patient Registration System
+![Patient Registration System](banner.png)
+#Patient Registration System
 ### SRT Medical College & Hospital, Ambajogai
 
 A desktop-based patient registration application built with Python and Tkinter.  
